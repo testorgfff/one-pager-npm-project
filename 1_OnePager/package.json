@@ -1,0 +1,23 @@
+{
+  "name": "one-pager-npm-project",
+  "version": "1.0.0",
+  "description": "one pager npm project for testing purpose",
+  "main": "server.js",
+  "scripts": {
+
+	 "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedyesuf/one-pager-npm-project.git"
+  },
+  "author": "Ahmed Yesuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedyesuf/one-pager-npm-project/issues"
+  },
+  "homepage": "https://github.com/ahmedyesuf/one-pager-npm-project#readme"
+}
